@@ -6,6 +6,4 @@
 * Prettier
 
 ## Settings
-* "workbench.startupEditor": "newUntitledFile",
-* "workbench.colorTheme": "City Lights",
-* "editor.fontSize": 16,
+[See](https://github.com/math-reis/vscode-settings/blob/main/settings.json)
