@@ -8,7 +8,9 @@
 ## Settings
 {
     "workbench.startupEditor": "newUntitledFile",
+    
     "workbench.colorTheme": "City Lights",
+    
     "editor.fontSize": 16,
 
 }
