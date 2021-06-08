@@ -5,5 +5,5 @@
 * Live Server
 * Prettier
 
-## Settings
-[See](https://github.com/math-reis/vscode-settings/blob/main/settings.json)
+## [Settings](https://github.com/math-reis/vscode-settings/blob/main/settings.json)
+
