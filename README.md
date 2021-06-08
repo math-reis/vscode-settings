@@ -2,6 +2,7 @@
 
 ## Extensions
 * City Lights Theme
+* Color Highlight
 * Live Server
 * Prettier
 
