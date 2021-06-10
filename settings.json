@@ -1,6 +1,12 @@
 {
-    "workbench.startupEditor": "newUntitledFile",
-    "workbench.colorTheme": "City Lights",
-    "editor.fontSize": 16,
-
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.fontSize": 14,
+  "editor.formatOnSave": true,
+  "editor.wordWrap": "on",
+  "workbench.colorTheme": "City Lights",
+  "workbench.editor.untitled.hint": "hidden",
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.settings.openDefaultSettings": true,
+  "workbench.settings.editor": "json",
+  "workbench.iconTheme": "vscode-icons"
 }
