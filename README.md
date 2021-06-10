@@ -7,3 +7,4 @@
 * Color Highlight
 * Live Server
 * Prettier
+* VSCode Icons
