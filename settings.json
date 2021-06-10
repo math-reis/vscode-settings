@@ -5,8 +5,8 @@
   "editor.wordWrap": "on",
   "workbench.colorTheme": "City Lights",
   "workbench.editor.untitled.hint": "hidden",
+  "workbench.iconTheme": "vscode-icons",
   "workbench.startupEditor": "newUntitledFile",
   "workbench.settings.openDefaultSettings": true,
-  "workbench.settings.editor": "json",
-  "workbench.iconTheme": "vscode-icons"
+  "workbench.settings.editor": "json"
 }
