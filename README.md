@@ -3,6 +3,7 @@
 ## [Settings](https://github.com/math-reis/vscode-settings/blob/main/settings.json)
 
 ## Extensions
+* C#
 * City Lights Theme
 * Code Runner
 * Color Highlight
