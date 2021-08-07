@@ -4,6 +4,7 @@
 
 ## Extensions
 * City Lights Theme
+* Code Runner
 * Color Highlight
 * Live Server
 * Prettier
