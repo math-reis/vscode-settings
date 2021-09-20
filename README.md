@@ -1,5 +1,7 @@
 # VSCode Personal Settings
 
+### [Settings](https://github.com/math-reis/vscode-settings/blob/main/settings.json)
+
 ### Extensions
 * City Lights Theme
 * Code Runner
@@ -9,5 +11,3 @@
 * Prettier
 * Spring Boot Extension Pack
 * VSCode Icons
-
-[**Settings**](https://github.com/math-reis/vscode-settings/blob/main/settings.json)
