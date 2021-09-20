@@ -6,7 +6,9 @@
 * City Lights Theme
 * Code Runner
 * Color Highlight
+* Extension Pack for Java
 * Live Server
 * Prettier
+* Spring Boot Extension Pack
 * VSCode Icons
 
