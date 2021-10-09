@@ -1,6 +1,6 @@
 {
   "editor.codeActionsOnSave": {
-    "source.organizeImports": true
+    "source.organizeImports": false
   },
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "[java]": {
@@ -8,7 +8,19 @@
   },
   "editor.fontSize": 14,
   "editor.formatOnSave": true,
+  "editor.suggestSelection": "first",
   "editor.wordWrap": "on",
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "git.confirmSync": false,
+  "git.autofetch": true,
+  "redhat.telemetry.enabled": true,
+  "vsicons.dontShowNewVersionMessage": true,
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
   "workbench.colorTheme": "City Lights",
   "workbench.editor.untitled.hint": "hidden",
   "workbench.iconTheme": "vscode-icons",
